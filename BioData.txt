@@ -16,7 +16,7 @@ Occupation: Software Engineer,-> passionate about building innovative software s
 Education: Bachelor's Degree in Computer Science
 Height: 5.8 feet
 Family Background:
-	Father: Syed Ikram (Running a Business)
+	Father: Syed Ikram (Running a Retail Shop)
 	Mother: Haseen Taj (Home Maker)
 	Younger Sister: Vasiya Affreen (B.Com)
 
