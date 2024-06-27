@@ -1,0 +1,8 @@
+total Arabic letters 
+28
+
+whenever any urdu letter ends with aa sound
+then pronounce it as ah sound 
+
+
+zabar, zeer and paesh are called harakat
